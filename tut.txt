@@ -1,0 +1,8 @@
+First always instialize the pygame by the command pygame.init
+Second to have a display screen you have to give the command => 
+=> pygame.display.set_mode((x,y))
+Where x and y are the width and height of the game window / screen
+
+At the end always use => 
+pygame.quit()
+quit() 
