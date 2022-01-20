@@ -18,6 +18,6 @@ Example: pip install -r c://Users/Downloads/SnakeByRohan/requirements.txt
   
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
   
-Start The Game by first downloading zip file and then extract it in you computer and then click on snake.exe file
+**Start The Game by first downloading zip file and then extract it in you computer and then click on snake.exe file**
   
-**ThankYou!**
+***ThankYou!***
