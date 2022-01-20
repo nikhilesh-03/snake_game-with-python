@@ -14,3 +14,11 @@ OR
 Open Terminal or CMD, then Type pip install -r <path to the game>
 Example: pip install -r c://Users/Downloads/SnakeByRohan/requirements.txt
 
+
+  
+Dont Delete Any Files.. IT MAY CRASH THE GAME!
+  
+Start The Game Using Snake.exe File!
+  
+  
+ThankYou!
